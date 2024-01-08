@@ -1,2 +1,1 @@
-# Daily-Planner
-A web app for planning your work day
+# Work Day Scheduler Starter Code
